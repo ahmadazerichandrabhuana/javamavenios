@@ -1,6 +1,9 @@
 # Test Automation for iOS Apps using Appium on Java Maven
 Sample Test Automation for iOS Apps using Appium on Java Maven with TestNG and Allure Report
 
+> [!NOTE]  
+> I can only try this code on MacOS, since it needs XCode. Not sure it can be used on Windows/Linux or not. Seems too complicated, IMHO.
+
 ## Requirements 
 
 1. Install Java, then setup the JAVA_HOME and MAVEN_HOME into your PATH file (Environment Variabels).
