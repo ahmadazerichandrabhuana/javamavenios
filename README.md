@@ -48,6 +48,9 @@ udid: 7XXDXXXX-FXXX-XX9X-8XXX-XXXXCXXXFXXX
 
 * Run specific test : Open file `"/testsuites/test.xml"` and update line 6-8 (comment & un-comment) and run above command again.
 
+> [!NOTE]  
+> First-time run might take quite some time. It will install `WebDriverAgentRunner` on the target device/simulator.
+
 ## Open Report
 *  Generate report file and open it :
 
