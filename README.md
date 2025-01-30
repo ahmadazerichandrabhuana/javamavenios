@@ -49,7 +49,7 @@ udid: 7XXDXXXX-FXXX-XX9X-8XXX-XXXXCXXXFXXX
 * Run specific test : Open file `"/testsuites/test.xml"` and update line 6-8 (comment & un-comment) and run above command again.
 
 > [!NOTE]  
-> First-time run might take quite some time. It will install `WebDriverAgentRunner` on the target device/simulator.
+> First-time run might take quite some time. It will install `WebDriverAgentRunner` on the target device/simulator. And compared with Android, this iOS Apps also takes a longer time for loading its initial screen.
 
 ## Open Report
 *  Generate report file and open it :
