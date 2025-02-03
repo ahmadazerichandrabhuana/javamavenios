@@ -17,7 +17,7 @@ Sample Test Automation for iOS Apps using Appium on Java Maven with TestNG and A
 5. Install [Appium](https://appium.io/docs/en/2.2/quickstart/install/) and install appium driver `uiautomator2`.
 6. Install and run [appium-doctor](https://www.npmjs.com/package/appium-doctor) to make sure all of your appium's dependencies are OK, trouble shoot if any red "x" appears (you need to google it yourself).
 7. Install [ADB](https://www.xda-developers.com/install-adb-windows-macos-linux/), or add ADB installed from Android Studio into your PATH file.
-8. Download and install this [Demo Apps](https://github.com/saucelabs/my-demo-app-rn/releases)(`.apk` file) into your Android Device (credit to [Wim Selles](https://github.com/wswebcreation)).
+8. Download and install this [Demo Apps](https://github.com/saucelabs/my-demo-app-rn/releases) into your iOS Device (`.ipa` file) or iOS Simulator (`.zip` file, extract and put the extracted file into iOS Simulator). Credit to [Wim Selles](https://github.com/wswebcreation).
 9. Install any IDE or Code Editor you're comfort with.
    Recommended :
    - IDE : [IntelliJ IDEA](https://www.jetbrains.com/idea/download), since this code is Java-based.
