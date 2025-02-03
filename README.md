@@ -29,9 +29,6 @@ Sample Test Automation for iOS Apps using Appium on Java Maven with TestNG and A
 ## Device Connection
 
 Connect your device to your computer, or open iOS Simulator, and check it's udid (or `identifier`) from XCode (Open XCode go to menu `Window` then choose `Device and Simulators`). 
-```
-adb devices
-```
 Put it on file `config.yaml` line #1 : 
 ```
 udid: {your device udid}
